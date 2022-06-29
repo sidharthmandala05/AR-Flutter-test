@@ -1,0 +1,8 @@
+Model Information:
+* title:	Kitchen Robot - Mia
+* source:	https://sketchfab.com/3d-models/kitchen-robot-mia-971b17ac6f7048899d68cc4fb00be7fa
+* author:	neatpolygons (https://sketchfab.com/neatpolygons)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
